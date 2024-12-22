@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-VERSION=0.7.30
+VERSION=0.7.31
 PROJECT=QUsb2snes
 
 # required to build on centos, not on fedora
